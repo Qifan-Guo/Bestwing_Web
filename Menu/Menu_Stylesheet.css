@@ -1,0 +1,22 @@
+.Food_Categories{
+    border: 1vm;
+    border-style: solid;
+    display: block;
+    float: left;
+}
+
+.icon::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  
+  .Lunch_Title::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f2e7";
+  }
+  
