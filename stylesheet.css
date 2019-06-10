@@ -4,3 +4,14 @@ nav{
 .nav-brand{
     font-size: 3.5vw;
 }
+#mycarousel {
+    max-width: 60%;
+    height: 480px;
+    float: right;
+}
+.introduction{
+    max-width: 40%;
+}
+table{
+    max-height: 200px;
+}
